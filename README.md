@@ -2,8 +2,8 @@
 
 Ciudad Cuauhtémoc, Chihuahua. **Cada 15 lavados, plantamos 2 árboles.**
 
-- Página del programa: https://marcotreyes1322-pixel.github.io/
-- Cartel para imprimir (tamaño carta): https://marcotreyes1322-pixel.github.io/cartel-reforestacion.png
+- Página del programa: https://reforestacioncwe.org/
+- Cartel para imprimir (tamaño carta): https://reforestacioncwe.org/cartel-reforestacion.png
 
 Esta es la copia pública de la página. Se actualiza sola cada madrugada a
 partir de la que administra Car Wash Express; no guarda nombres ni teléfonos
